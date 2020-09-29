@@ -1,8 +1,10 @@
-        <footer class="my-sm-10 sticky">
-          <div class="container my-auto">
-            <div class="copyright text-center">
+        <footer class="py-4 bg-light mt-4">
+          <div class="container-fluid">
+            <div class="small">
+              <div class="text-muted text-center">
               <span>Powered By BlackNET <?php echo APP_VERSION; ?> | Developed By <a href="http://www.twitter.com/BlackHacker_511">Black.Hacker</a>
                 <br></span>
+              </div>
             </div>
           </div>
         </footer>
