@@ -103,6 +103,11 @@ if ($_SERVER['REQUEST_METHOD'] === "POST") {
       </div>
     </div>
   </div>
+    
+  <p class="text-center mt-3 text-white">
+    Powered By <a href="https://github.com/BlackHacker511/BlackNET">BlackNET</a>
+  </p>
+
   <?php include_once 'components/js.php';?>
   <script src='https://www.google.com/recaptcha/api.js' async defer></script>
 
