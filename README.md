@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- <a href="#"><img align="center" src="https://img.shields.io/maintenance/no/2020" /></a> 
+ <a href="#"><img align="center" src="https://img.shields.io/maintenance/yes/2020" /></a> 
 </p>
 
 # BlackNET
@@ -11,9 +11,9 @@ Free advanced and modern Windows botnet with a nice and secure PHP panel develop
 
 ## About BlackNET
 
-This repository will be updated when needed.
+Free advanced and modern Windows botnet with a nice and secure PHP panel developed using VB.NET.
 
-No major features will be added just bug fixes.
+Developed By: Black.Hacker
 
 ## What You Can Do
  1. Upload File
@@ -88,7 +88,16 @@ Pattern Example:
 
 [How to Setup BlackNET Cron Job System](https://www.youtube.com/watch?v=rHCYGRA1h54)
 
+## Coming Soon
 
+```
+v3.5.2
+
+1. Added Queue System to handle commands
+2. Better, Cleaner, Faster
+3. Removed some usless functions
+
+```
 ## Thanks to
 - KFC
 - NYAN CAT
