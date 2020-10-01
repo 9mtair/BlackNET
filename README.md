@@ -96,7 +96,7 @@ v3.5.2
 1. Added Queue System to handle commands
 2. Better, Cleaner, Faster
 3. Removed some useless functions
-
+4. Bugs Fixes
 ```
 ## Thanks to
 - KFC
