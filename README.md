@@ -3,7 +3,12 @@
 </p>
 
 <p align="center">
- <a href="#"><img align="center" src="https://img.shields.io/maintenance/yes/2020" /></a> 
+ <a href="#"><img align="center" src="https://img.shields.io/maintenance/yes/2020" /></a>
+ <a href="#"><img align="center" src="https://img.shields.io/github/license/FarisCode511/BlackNET" /></a>
+ <a href="#"><img align="center" src="https://img.shields.io/badge/Version-3.5.1-blue" /></a>
+ <a href="#"><img align="center" src="https://img.shields.io/github/repo-size/FarisCode511/BlackNET" /></a>
+ <a href="#"><img align="center" src="https://img.shields.io/github/languages/top/FarisCode511/BlackNET" /></a>
+ <a href="#"><img align="center" src="https://badgen.net/badge/icon/awesome/pink?icon=awesome&label" /></a>
 </p>
 
 # BlackNET
