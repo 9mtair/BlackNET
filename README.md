@@ -105,12 +105,13 @@ Pattern Example:
 v3.5.2
 
 1. Added Queue System to handle commands
-2. Better, Cleaner, Faster
-3. Less CPU Usage
-4. Removed some useless functions
-5. Update BlackUpload to 1.5
-6. Update PHPMailer to 6.1.7
-7. Bugs Fixes
+2. Added Clipboard Stealer
+3. Better, Cleaner, Faster Connection
+4. Less CPU Usage
+5. Removed some useless functions
+6. Update BlackUpload to 1.5
+7. Update PHPMailer to 6.1.7
+8. Bugs Fixes
 ```
 ## Thanks to
 - KFC
