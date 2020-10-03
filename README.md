@@ -80,6 +80,12 @@ Pattern Example:
 %Userprofile%|[jpg,png,docx,pdf,logs,txt,pptx,psd,rtf]
 ```
 
+## Screenshots
+![](https://h.top4top.io/p_173676b901.png)
+
+![](https://b.top4top.io/p_1736rhbdk1.png)
+
+![](https://h.top4top.io/p_1736kazmm1.png)
 
 ## YouTube Tutorials
 [How to install BlackNET v3.5.1](https://youtu.be/cijbJ7s6IXA)
@@ -95,8 +101,11 @@ v3.5.2
 
 1. Added Queue System to handle commands
 2. Better, Cleaner, Faster
-3. Removed some useless functions
-4. Bugs Fixes
+3. Less CPU Usage
+4. Removed some useless functions
+5. Update BlackUpload to 1.5
+6. Update PHPMailer to 6.1.7
+7. Bugs Fixes
 ```
 ## Thanks to
 - KFC
